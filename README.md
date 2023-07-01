@@ -104,5 +104,3 @@ Explore transfer learning with state-of-the-art models like T5 and BERT, then bu
 Week 4: Chatbots with Reformer models
 
 Examine some unique challenges Transformer models face and their solutions, then build a chatbot using a Reformer model.
-
-[My Certificate](Certificate.pdf)
